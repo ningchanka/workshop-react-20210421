@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import User from './components/User'
 import Clock from './components/Clock'
+import Form from './components/Form'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <User info="User 02"></User>
             <User info="User 03"></User>
           </ul>
+          <Form/>
         </div>
       </header>
     </div>
