@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/workshop-react-20210421/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/workshop-react-20210421/static/js/main.d46adb9b.chunk.js",
-    "main.js.map": "/workshop-react-20210421/static/js/main.d46adb9b.chunk.js.map",
-    "runtime-main.js": "/workshop-react-20210421/static/js/runtime-main.dc7b797e.js",
-    "runtime-main.js.map": "/workshop-react-20210421/static/js/runtime-main.dc7b797e.js.map",
-    "static/js/2.caffb6a1.chunk.js": "/workshop-react-20210421/static/js/2.caffb6a1.chunk.js",
-    "static/js/2.caffb6a1.chunk.js.map": "/workshop-react-20210421/static/js/2.caffb6a1.chunk.js.map",
-    "static/js/3.0f27801b.chunk.js": "/workshop-react-20210421/static/js/3.0f27801b.chunk.js",
-    "static/js/3.0f27801b.chunk.js.map": "/workshop-react-20210421/static/js/3.0f27801b.chunk.js.map",
+    "main.js": "/workshop-react-20210421/static/js/main.dd82f97c.chunk.js",
+    "main.js.map": "/workshop-react-20210421/static/js/main.dd82f97c.chunk.js.map",
+    "runtime-main.js": "/workshop-react-20210421/static/js/runtime-main.b6697b3f.js",
+    "runtime-main.js.map": "/workshop-react-20210421/static/js/runtime-main.b6697b3f.js.map",
+    "static/js/2.ca4f62bb.chunk.js": "/workshop-react-20210421/static/js/2.ca4f62bb.chunk.js",
+    "static/js/2.ca4f62bb.chunk.js.map": "/workshop-react-20210421/static/js/2.ca4f62bb.chunk.js.map",
+    "static/js/3.8c66c24f.chunk.js": "/workshop-react-20210421/static/js/3.8c66c24f.chunk.js",
+    "static/js/3.8c66c24f.chunk.js.map": "/workshop-react-20210421/static/js/3.8c66c24f.chunk.js.map",
     "index.html": "/workshop-react-20210421/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/workshop-react-20210421/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.caffb6a1.chunk.js.LICENSE.txt": "/workshop-react-20210421/static/js/2.caffb6a1.chunk.js.LICENSE.txt",
+    "static/js/2.ca4f62bb.chunk.js.LICENSE.txt": "/workshop-react-20210421/static/js/2.ca4f62bb.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/workshop-react-20210421/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc7b797e.js",
-    "static/js/2.caffb6a1.chunk.js",
+    "static/js/runtime-main.b6697b3f.js",
+    "static/js/2.ca4f62bb.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d46adb9b.chunk.js"
+    "static/js/main.dd82f97c.chunk.js"
   ]
 }
