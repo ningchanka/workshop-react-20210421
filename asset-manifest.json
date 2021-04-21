@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ningchanka/workshop-react-20210421/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ningchanka/workshop-react-20210421/static/js/main.1da1c719.chunk.js",
-    "main.js.map": "/ningchanka/workshop-react-20210421/static/js/main.1da1c719.chunk.js.map",
+    "main.js": "/ningchanka/workshop-react-20210421/static/js/main.d46adb9b.chunk.js",
+    "main.js.map": "/ningchanka/workshop-react-20210421/static/js/main.d46adb9b.chunk.js.map",
     "runtime-main.js": "/ningchanka/workshop-react-20210421/static/js/runtime-main.8b298b29.js",
     "runtime-main.js.map": "/ningchanka/workshop-react-20210421/static/js/runtime-main.8b298b29.js.map",
     "static/js/2.caffb6a1.chunk.js": "/ningchanka/workshop-react-20210421/static/js/2.caffb6a1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8b298b29.js",
     "static/js/2.caffb6a1.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.1da1c719.chunk.js"
+    "static/js/main.d46adb9b.chunk.js"
   ]
 }
