@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ningchanka/workshop-react-20210421",
+  "homepage": "https://ningchanka.github.io/workshop-react-20210421",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
