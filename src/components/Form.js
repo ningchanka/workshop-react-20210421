@@ -4,7 +4,8 @@ class Form extends Component{
     constructor() {
         super();
         this.state = {
-            data: ""
+            data: "",
+            message: ""
         }
         this.doKey = this.doKey.bind(this)
     }
@@ -12,6 +13,13 @@ class Form extends Component{
     doKey(event) {
         this.setState({
             data: event.target.value
+        })
+    }
+
+    sayHi() {
+        console.log("clicek say hi")
+        this.setState({
+            message: "Hello " + this.state.data
         })
     }
     // componentDidMount() {
@@ -27,7 +35,9 @@ class Form extends Component{
     render(){
     return <div>
         <input type="text" onKeyUp={this.doKey} />
-    <p>Hello : {this.state.data}</p>
+        <button onClick={() => this.sayHi()} >Say hi</button>
+        <p>Data: {this.state.data}</p>
+        <p>Message : {this.state.message}</p>
     </div>;
     }
 
