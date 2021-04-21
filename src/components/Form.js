@@ -11,7 +11,7 @@ class Form extends Component{
 
     doKey(event) {
         this.setState({
-            data: this.state.data + event.key
+            data: event.target.value
         })
     }
     // componentDidMount() {
@@ -26,7 +26,7 @@ class Form extends Component{
 
     render(){
     return <div>
-        <input type="text" onKeyPress={this.doKey}/>
+        <input type="text" onKeyUp={this.doKey} />
     <p>Hello : {this.state.data}</p>
     </div>;
     }
