@@ -21,6 +21,7 @@ class Form extends Component{
         this.setState({
             message: "Hello " + this.state.data
         })
+        this.props.onSayhi(this.state.data)
     }
     // componentDidMount() {
     //     this.xx = setInterval( () => { 

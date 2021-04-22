@@ -13,6 +13,20 @@ class App extends Component {
     { id: 3, name: "User 03", age: 10},
   ];
 
+  constructor(){
+    super()
+    this.state = {
+      message: "----"
+    }
+    this.xyz = this.xyz.bind(this)
+  }
+
+  xyz(input) {
+    this.setState({
+      message: "New section : " + input
+    })
+  }
+
   render() {
     return <div className="App">
       <header className="App-header">
@@ -22,7 +36,8 @@ class App extends Component {
         <div>
           <h1><Clock ></Clock></h1>
           <User users={this.users} />
-          <Form/>
+          <Form onSayhi={this.xyz} />
+          <p>New section : {this.state.message}</p>
         </div>
       </header>
     </div>
